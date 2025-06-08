@@ -1,7 +1,7 @@
 # 🎧 Spotify Clone (Frontend Only)
 
 <p align="center">
-  <img src="https://media-hosting.imagekit.io/def1847c7cda4358/Screenshot%202025-05-01%20at%206.03.28%E2%80%AFPM.png?Expires=1840711149&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IDMeo~PTaQ5CGSpyKrMqvzcz6n52eg-MAdeX4LnvPMYt8YGX53DFah1d4hmOBlClQUxCwt8geeRXaBnb0StUYy~snWmozjRIV04-Jxa3lVe9Cgw1qtyyyHQYDvFKlkMy038UIaRkZZvBYh06RDyGBOGBGvZ8Z~t1qOIM98bJvocO0HtYQ44y2cyUvDkN4~YUdNOaQuvhR6PS6Vpjdofj6CFb6SJtSZEA7efTxpjmCUn7nDbOtu4mGYLtANk7P8RHAhWY3TQnzox4chOcUn~75G86CrjHlnQ3Ahj6Y4~NJ9rJmlpm0HgDWvwVPJ~XRXY9w-pEWKi8EYuCnqbW63PiGQ__" alt="Spotify Clone Screenshot" width="700"/>
+  <img src="https://res.cloudinary.com/dvzwgucdm/image/upload/v1749354845/Screenshot_2025-06-08_at_9.19.26_AM_sgbnll.png" alt="Spotify Clone Screenshot" width="700"/>
 </p>
 
 A static UI clone of Spotify built using **HTML and CSS** only. It replicates key components of the Spotify interface such as:
